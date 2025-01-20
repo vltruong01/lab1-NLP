@@ -1,0 +1,4 @@
+Model	    Training Loss	                                Training Time
+Skip-gram	High computational cost, slow convergence.	    Slowest due to full softmax normalization.
+SGNS	    Lower, faster convergence than Skip-gram.	    Faster due to negative sampling.
+GloVe	    Lower loss for co-occurrence objectives.	    Fast for small corpora, slower for large ones due to matrix factorization.
