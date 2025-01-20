@@ -1,0 +1,2 @@
+https://www.nltk.org/nltk_data/
+Brown Corpus
